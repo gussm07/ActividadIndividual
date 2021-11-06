@@ -12,6 +12,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //BUSCA LOS BOTONES PARA ESCUCHARLOS
+        findViewById(R.id.button).setOnClickListener(this);
+        findViewById(R.id.button2).setOnClickListener(this);
+        findViewById(R.id.button3).setOnClickListener(this);
+        findViewById(R.id.button4).setOnClickListener(this);
     }
 
     @Override
@@ -34,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 color = Color.parseColor("#E6EE9C"); // Lima
                 break;
             default:
-                color = Color.WHITE; // Blano
+                color = Color.BLUE; // Blano
         }
 
         contenedor.setBackgroundColor(color);

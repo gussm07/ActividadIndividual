@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ActividadIndividual</string>
+    <string name="selecciona_tu_industria">Selecciona tu industria:</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="string_checkbox">checkbox</string>
+    <string name="personalizar">Personalizar</string>
+    <string name="belleza">Belleza</string>
+    <string name="libros_y_literatura">Libros y Literatura</string>
+    <string name="comida_y_bebidas">Comida y Bebidas</string>
+    <string name="carreras">Carreras</string>
+    <string name="videojuegos">Videojuegos</string>
+    <string name="educaci_n">Educación</string>
+    <string name="deportes">Deportes</string>
+    <string name="eventos">Eventos</string>
+    <string name="familia">Familia</string>
+    <string name="arte">Arte</string>
+    <string name="elige_tus_intereses">Elige tus intereses</string>
+    <string name="image">TODO</string>
+    <string name="tesla1">TODO</string>
 </resources>

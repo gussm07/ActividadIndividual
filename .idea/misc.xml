@@ -3,6 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/background_checkbox_off.xml" value="0.2984375" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/background_checkbox_on.xml" value="0.2984375" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/boton_checkbox.xml" value="0.2984375" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/ic_clima_lluvia.xml" value="0.22135416666666666" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/rb_background_lluvia.xml" value="0.2984375" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/rb_background_lluvia_off.xml" value="0.2984375" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/drawable/rb_background_lluvia_on.xml" value="0.2984375" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/layout/activity_button_group.xml" value="0.28229166666666666" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/layout/activity_check_box.xml" value="0.28229166666666666" />
+        <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/layout/activity_image_view.xml" value="0.24114583333333334" />
         <entry key="..\:/DEVELOPER/ANDROID_APPS/ActividadIndividual/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
       </map>
     </option>
